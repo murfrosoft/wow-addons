@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: Murf's First Addon!
+## Notes: Test Test Test
+## Author: Ironshield
+## Version: 0.2
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Murf_Addon.lua
